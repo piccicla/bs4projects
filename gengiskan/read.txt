@@ -1,0 +1,5 @@
+1)install modules
+npm install
+
+
+2)npm start
